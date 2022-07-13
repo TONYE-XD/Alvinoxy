@@ -27,7 +27,7 @@ $ git clone https://github.com/TONYE-XD/Alvinoxy
 #### Run script
 ```bash
 $ cd Alvinoxy
-$ python Alvinoxy.py
+$ python alvinoxy.py
 ```
 #### MY SOCIAL MEDIA
 
